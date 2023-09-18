@@ -19,3 +19,7 @@ This is a clone of https://github.com/miguelgrinberg/flasky
 ## Exercise 4
 
 ![Alt text](./assets/A2-Ex4.png)
+
+# Activity 3
+
+![Alt text](./assets/A3.png)
