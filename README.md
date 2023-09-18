@@ -15,3 +15,7 @@ This is a clone of https://github.com/miguelgrinberg/flasky
 ## Exercise 3
 
 ![Alt text](./assets/A2-Ex3.png)
+
+## Exercise 4
+
+![Alt text](./assets/A2-Ex4.png)
