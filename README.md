@@ -2,8 +2,16 @@
 
 Getting to know Flask
 
-# By Ata Tuzuner
+## By Ata Tuzuner
 
 This is a clone of https://github.com/miguelgrinberg/flasky
 
-![Alt text](./Lab1-A1.png)
+# Activity 1
+
+![Alt text](./assets/A1.png)
+
+# Activity 2
+
+## Exercise 3
+
+![Alt text](./assets/A2-Ex3.png)
