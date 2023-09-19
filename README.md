@@ -23,3 +23,25 @@ This is a clone of https://github.com/miguelgrinberg/flasky
 # Activity 3
 
 ![Alt text](./assets/A3.png)
+
+# Activity 4
+
+## Exercise 1
+
+![Alt text](./assets/A4%20Ex1.png)
+
+## Exercise 2
+
+![Alt text](./assets/A4%20Ex2.png)
+
+## Exercise 3
+
+![Alt text](./assets/A4%20Ex3.png)
+
+## Exercise 4
+
+![Alt text](./assets/A4%20Ex4.png)
+
+## Exercise 5
+
+![Alt text](./assets/A4%20Ex5.png)
