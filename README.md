@@ -11,3 +11,23 @@ Installed docker.
 Prepped local files for Activity 4.
 
 ![Alt text](./lab3_screenshots/A3.png)
+
+## Activity 4
+
+Running Docker
+
+### Docker Build
+
+![Alt text](./lab3_screenshots/A4%20docker%20build.png)
+
+### Docker Run
+
+![Alt text](./lab3_screenshots/A4%20docker%20run.png)
+
+### Docker ps (Container info)
+
+![Alt text](./lab3_screenshots/A4%20docker%20ps.png)
+
+### Application running on docker container
+
+![Alt text](./lab3_screenshots/A4%20localhost.png)
